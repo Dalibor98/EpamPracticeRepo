@@ -6,3 +6,5 @@ on this their chosen battle field
 
 
 some new content for new branch
+
+some other content for non fast forward
